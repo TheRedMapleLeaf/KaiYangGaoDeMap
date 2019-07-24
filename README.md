@@ -1,13 +1,13 @@
 # Maps
 
 ### 这是什么?
-指路者地图
+红枫叶地图
 
 ### 它能做什么?
 定位,导航,搜索,标记
 
 ### 数据来源?
-高德
+高德地图
 
 ### 截图
 ![截图](https://github.com/andforce/Maps/blob/master/screenshot/0.png)
