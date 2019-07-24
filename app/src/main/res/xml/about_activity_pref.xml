@@ -12,7 +12,7 @@
             android:title="图标设计者"/>
 
         <Preference
-            android:summary="https://github.com/andforce/Maps"
+            android:summary="https://github.com/TheRedMapleLeaf/KaiYangGaoDeMap"
             android:title="开源地址" />
 
         <Preference
@@ -20,7 +20,7 @@
             android:title="版本" />
 
         <Preference
-            android:summary="如果不是北漂，可能不知道[进京证]是咋回事，关掉相关设置就可以。如果你是北漂，且知道哪里有摄像头，希望你提供给我，一块完善一下，毕竟弄进京证太操蛋了！"
+            android:summary="非常感谢GitHub上的大佬带领我学习高德地图的开发。"
             android:title="说明" />
 
     </PreferenceCategory>
